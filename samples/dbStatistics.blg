@@ -1,0 +1,79 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: dbStatistics.aux
+The style file: ACM-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: sample-base.bib
+Repeated entry---line 322 of file sample-base.bib
+ : @inproceedings{booshehri2015ontology
+ :                                     ,
+I'm skipping whatever remains of this entry
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--empty publisher in booshehri2015ontology
+Warning--empty address in booshehri2015ontology
+Warning--no number and no volume in bumans2018rdb2owl
+Warning--empty publisher in chari2020explanation
+Warning--empty address in chari2020explanation
+Warning--empty publisher in christian2017mapping
+Warning--empty address in christian2017mapping
+Warning--page numbers missing in both pages and numpages fields in christian2017mapping
+Warning--no journal in gutierrez2018knowledge
+Warning--no number and no volume in gutierrez2018knowledge
+Warning--page numbers missing in both pages and numpages fields in gutierrez2018knowledge
+Warning--empty publisher in lee2016operator
+Warning--empty address in lee2016operator
+Warning--no journal in louhdi2013hybrid
+Warning--no number and no volume in louhdi2013hybrid
+Warning--page numbers missing in both pages and numpages fields in louhdi2013hybrid
+Warning--empty publisher in tramontana2022ontology
+Warning--empty address in tramontana2022ontology
+Warning--no number and no volume in yue2023csm
+Warning--page numbers missing in both pages and numpages fields in yue2023csm
+You've used 18 entries,
+            5901 wiz_defined-function locations,
+            1568 strings with 20232 characters,
+and the built_in function-call counts, 18863 in all, are:
+= -- 2252
+> -- 693
+< -- 0
++ -- 226
+- -- 250
+* -- 1269
+:= -- 2006
+add.period$ -- 89
+call.type$ -- 18
+change.case$ -- 116
+chr.to.int$ -- 16
+cite$ -- 38
+duplicate$ -- 1674
+empty$ -- 1183
+format.name$ -- 294
+if$ -- 4428
+int.to.chr$ -- 4
+int.to.str$ -- 1
+missing$ -- 53
+newline$ -- 195
+num.names$ -- 142
+pop$ -- 650
+preamble$ -- 1
+purify$ -- 274
+quote$ -- 0
+skip$ -- 607
+stack$ -- 0
+substring$ -- 1297
+swap$ -- 151
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 430
+warning$ -- 20
+while$ -- 138
+width$ -- 0
+write$ -- 348
+(There was 1 error message)

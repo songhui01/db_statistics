@@ -1,0 +1,261 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{18}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{#1}\fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[\protect\citeauthoryear{Booshehri and Luksch}{Booshehri and
+  Luksch}{2015}]%
+        {booshehri2015ontology}
+\bibfield{author}{\bibinfo{person}{Meisam Booshehri} {and}
+  \bibinfo{person}{Peter Luksch}.} \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{An ontology enrichment approach by using DBpedia}.
+  In \bibinfo{booktitle}{\emph{Proceedings of the 5th International Conference
+  on Web Intelligence, Mining and Semantics}}. \bibinfo{pages}{1--11}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{B{\=u}mans and {\v{C}}er{\=a}ns}{B{\=u}mans
+  and {\v{C}}er{\=a}ns}{2018}]%
+        {bumans2018rdb2owl}
+\bibfield{author}{\bibinfo{person}{Guntars B{\=u}mans} {and}
+  \bibinfo{person}{K{\=a}rlis {\v{C}}er{\=a}ns}.}
+  \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{RDB2OWL: A Language for Database to OWL Mapping and
+  its Implementation}.
+\newblock \bibinfo{journal}{\emph{INNOVATIONS AND CREATIVITY}}
+  (\bibinfo{year}{2018}), \bibinfo{pages}{9}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Chari, Seneviratne, Gruen, Foreman, Das, and
+  McGuinness}{Chari et~al\mbox{.}}{2020}]%
+        {chari2020explanation}
+\bibfield{author}{\bibinfo{person}{Shruthi Chari}, \bibinfo{person}{Oshani
+  Seneviratne}, \bibinfo{person}{Daniel~M Gruen}, \bibinfo{person}{Morgan~A
+  Foreman}, \bibinfo{person}{Amar~K Das}, {and} \bibinfo{person}{Deborah~L
+  McGuinness}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Explanation ontology: a model of explanations for
+  user-centered AI}. In \bibinfo{booktitle}{\emph{International Semantic Web
+  Conference}}. Springer, \bibinfo{pages}{228--243}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Christian}{Christian}{2017}]%
+        {christian2017mapping}
+\bibfield{author}{\bibinfo{person}{Aniagu~Ugochukwu Christian}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Mapping of relational schema to ontology model}. In
+  \bibinfo{booktitle}{\emph{The Fourth International Conference on Artificial
+  Intelligence and Pattern Recognition (AIPR2017)}}, Vol.~\bibinfo{volume}{1}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Fraga, Vegetti, and Leone}{Fraga
+  et~al\mbox{.}}{2020}]%
+        {fraga2020ontology}
+\bibfield{author}{\bibinfo{person}{Alvaro~Luis Fraga}, \bibinfo{person}{Marcela
+  Vegetti}, {and} \bibinfo{person}{Horacio~Pascual Leone}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Ontology-based solutions for interoperability among
+  product lifecycle management systems: A systematic literature review}.
+\newblock \bibinfo{journal}{\emph{Journal of Industrial Information
+  Integration}}  \bibinfo{volume}{20} (\bibinfo{year}{2020}),
+  \bibinfo{pages}{100176}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Gruber}{Gruber}{1993}]%
+        {gruber1993ontology}
+\bibfield{author}{\bibinfo{person}{Tom Gruber}.}
+  \bibinfo{year}{1993}\natexlab{}.
+\newblock \bibinfo{title}{What is an Ontology}.
+\newblock
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Gruber}{Gruber}{2008}]%
+        {gruber}
+\bibfield{author}{\bibinfo{person}{Tom Gruber}.}
+  \bibinfo{year}{2008}\natexlab{}.
+\newblock \bibinfo{title}{Ontology}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{http://web.dfc.unibo.it/buzzetti/IUcorso2007-08/mdidattici/ontology-definition-2007.htm#:~:text=An%20ontology%20specifies%20a%20vocabulary}
+\showURL{%
+Retrieved 2024-05 from \tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Gutierrez~Basulto and
+  Schockaert}{Gutierrez~Basulto and Schockaert}{2018}]%
+        {gutierrez2018knowledge}
+\bibfield{author}{\bibinfo{person}{Victor Gutierrez~Basulto} {and}
+  \bibinfo{person}{Steven Schockaert}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{From knowledge graph embedding to ontology
+  embedding? an analysis of the compatibility between vector space
+  representations and rules}.
+\newblock  (\bibinfo{year}{2018}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Lee, K{\"o}nig, Narasayya, Ding, Chaudhuri,
+  Ellwein, Eksarevskiy, Kohli, Wyant, Prakash, et~al\mbox{.}}{Lee
+  et~al\mbox{.}}{2016}]%
+        {lee2016operator}
+\bibfield{author}{\bibinfo{person}{Kukjin Lee}, \bibinfo{person}{Arnd~Christian
+  K{\"o}nig}, \bibinfo{person}{Vivek Narasayya}, \bibinfo{person}{Bolin Ding},
+  \bibinfo{person}{Surajit Chaudhuri}, \bibinfo{person}{Brent Ellwein},
+  \bibinfo{person}{Alexey Eksarevskiy}, \bibinfo{person}{Manbeen Kohli},
+  \bibinfo{person}{Jacob Wyant}, \bibinfo{person}{Praneeta Prakash},
+  {et~al\mbox{.}}} \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Operator and query progress estimation in microsoft
+  SQL server live query statistics}. In \bibinfo{booktitle}{\emph{Proceedings
+  of the 2016 International Conference on Management of Data}}.
+  \bibinfo{pages}{1753--1764}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Louhdi, Behja, and El~Alaoui}{Louhdi
+  et~al\mbox{.}}{2013}]%
+        {louhdi2013hybrid}
+\bibfield{author}{\bibinfo{person}{MR~Chbihi Louhdi}, \bibinfo{person}{H
+  Behja}, {and} \bibinfo{person}{S~Ouatik El~Alaoui}.}
+  \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{Hybrid Method for Automatic Ontology Building}.
+\newblock  (\bibinfo{year}{2013}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Microsoft.com}{Microsoft.com}{2023a}]%
+        {RWesta}
+\bibfield{author}{\bibinfo{person}{Microsoft.com}.}
+  \bibinfo{year}{2023}\natexlab{a}.
+\newblock \bibinfo{title}{DBCC SHOW\_STATISTICS (Transact-SQL)}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://learn.microsoft.com/en-us/sql/t-sql/database-console-commands/dbcc-show-statistics-transact-sql?view=sql-server-ver16}
+\showURL{%
+Retrieved 2024-05 from \tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Microsoft.com}{Microsoft.com}{2023b}]%
+        {RWestb}
+\bibfield{author}{\bibinfo{person}{Microsoft.com}.}
+  \bibinfo{year}{2023}\natexlab{b}.
+\newblock \bibinfo{title}{sys.dm\_db\_index\_usage\_stats (Transact-SQL)}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://learn.microsoft.com/en-us/sql/relational-databases/system-dynamic-management-views/sys-dm-db-index-usage-stats-transact-sql?view=sql-server-ver16}
+\showURL{%
+Retrieved 2024-05 from \tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Microsoft.com}{Microsoft.com}{2023c}]%
+        {RWestc}
+\bibfield{author}{\bibinfo{person}{Microsoft.com}.}
+  \bibinfo{year}{2023}\natexlab{c}.
+\newblock \bibinfo{title}{sys.dm\_db\_stats\_histogram (Transact-SQL)}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://learn.microsoft.com/en-us/sql/relational-databases/system-dynamic-management-views/sys-dm-db-stats-histogram-transact-sql?view=sql-server-ver16&viewFallbackFrom=sql-server-%20ver16}
+\showURL{%
+Retrieved 2024-05 from \tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Noy, McGuinness, et~al\mbox{.}}{Noy
+  et~al\mbox{.}}{2001}]%
+        {noy2001ontology}
+\bibfield{author}{\bibinfo{person}{Natalya~F Noy}, \bibinfo{person}{Deborah~L
+  McGuinness}, {et~al\mbox{.}}} \bibinfo{year}{2001}\natexlab{}.
+\newblock \bibinfo{title}{Ontology development 101: A guide to creating your
+  first ontology}.
+\newblock
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Rajput and Gurulingappa}{Rajput and
+  Gurulingappa}{2013}]%
+        {rajput2013semi}
+\bibfield{author}{\bibinfo{person}{Abdul~Mateen Rajput} {and}
+  \bibinfo{person}{Harsha Gurulingappa}.} \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{Semi-automatic approach for ontology enrichment
+  using umls}.
+\newblock \bibinfo{journal}{\emph{Procedia Computer Science}}
+  \bibinfo{volume}{23} (\bibinfo{year}{2013}), \bibinfo{pages}{78--83}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Tramontana and Verga}{Tramontana and
+  Verga}{2022}]%
+        {tramontana2022ontology}
+\bibfield{author}{\bibinfo{person}{Emiliano Tramontana} {and}
+  \bibinfo{person}{Gabriella Verga}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{Ontology Enrichment with Text Extracted from
+  Wikipedia}. In \bibinfo{booktitle}{\emph{Proceedings of the 2022 5th
+  International Conference on Software Engineering and Information
+  Management}}. \bibinfo{pages}{113--117}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Tudorache}{Tudorache}{2020}]%
+        {tudorache2020ontology}
+\bibfield{author}{\bibinfo{person}{Tania Tudorache}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Ontology engineering: Current state, challenges,
+  and future directions}.
+\newblock \bibinfo{journal}{\emph{Semantic Web}} \bibinfo{volume}{11},
+  \bibinfo{number}{1} (\bibinfo{year}{2020}), \bibinfo{pages}{125--138}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Yue, Hong, and Smith}{Yue
+  et~al\mbox{.}}{2023}]%
+        {yue2023csm}
+\bibfield{author}{\bibinfo{person}{Songhui Yue}, \bibinfo{person}{Xiaoyan
+  Hong}, {and} \bibinfo{person}{Randy~K Smith}.}
+  \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{CSM-HR: An Automatic Context Reasoning Framework
+  for Interoperable Intelligent Systems and Privacy Protection}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2308.11066}}
+  (\bibinfo{year}{2023}).
+\newblock
+
+
+\end{thebibliography}
