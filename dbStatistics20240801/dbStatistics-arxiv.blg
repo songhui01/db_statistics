@@ -1,6 +1,6 @@
 This is BibTeX, Version 0.99d (TeX Live 2020)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: dbStatistics.aux
+The top-level auxiliary file: dbStatistics-arxiv.aux
 The style file: ACM-Reference-Format.bst
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -31,50 +31,49 @@ Warning--empty address in lee2016operator
 Warning--no journal in louhdi2013hybrid
 Warning--no number and no volume in louhdi2013hybrid
 Warning--page numbers missing in both pages and numpages fields in louhdi2013hybrid
-Warning--empty publisher in tramontana2022ontology
-Warning--empty address in tramontana2022ontology
-Warning--no number and no volume in yue2023csm
+Warning--no number and no volume in yue2024csm
+Warning--page numbers missing in both pages and numpages fields in yue2024csm
 Warning--empty publisher in yue2021applying
 Warning--empty address in yue2021applying
-You've used 19 entries,
+You've used 18 entries,
             5901 wiz_defined-function locations,
-            1576 strings with 20459 characters,
-and the built_in function-call counts, 20361 in all, are:
-= -- 2429
-> -- 731
+            1572 strings with 20208 characters,
+and the built_in function-call counts, 19625 in all, are:
+= -- 2454
+> -- 711
 < -- 0
-+ -- 239
-- -- 266
-* -- 1357
-:= -- 2147
-add.period$ -- 94
-call.type$ -- 19
-change.case$ -- 122
-chr.to.int$ -- 17
-cite$ -- 40
-duplicate$ -- 1823
-empty$ -- 1284
-format.name$ -- 314
-if$ -- 4788
++ -- 234
+- -- 258
+* -- 1324
+:= -- 2043
+add.period$ -- 89
+call.type$ -- 18
+change.case$ -- 118
+chr.to.int$ -- 16
+cite$ -- 38
+duplicate$ -- 1724
+empty$ -- 1215
+format.name$ -- 306
+if$ -- 4707
 int.to.chr$ -- 4
 int.to.str$ -- 1
-missing$ -- 58
-newline$ -- 202
-num.names$ -- 150
-pop$ -- 701
+missing$ -- 61
+newline$ -- 191
+num.names$ -- 142
+pop$ -- 673
 preamble$ -- 1
-purify$ -- 289
+purify$ -- 276
 quote$ -- 0
-skip$ -- 670
+skip$ -- 614
 stack$ -- 0
-substring$ -- 1443
-swap$ -- 173
+substring$ -- 1333
+swap$ -- 163
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 460
-warning$ -- 21
-while$ -- 152
+type$ -- 402
+warning$ -- 20
+while$ -- 142
 width$ -- 0
-write$ -- 366
+write$ -- 347
 (There was 1 error message)
